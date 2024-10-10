@@ -103,15 +103,15 @@ A List model is trained including support vector machine(svm) , logistic regress
 
 diabetes-prediction-model/
 
-- ├── app.py\\\\                 # Flask application
-- ├── jupyterNotebook.py\\\\     # Machine learning model logic
-- ├── diab_pred.pkl\\\\          # Saved trained model for predictions
-- ├── requirements.txt\\\\       # Python dependencies
-- ├── templates/\\\\             # HTML files for the web interface
-- │   └── index.html\\\\         # Main page for user input
-- ├── static/\\\\                # CSS and other static assets
-- │   └── style.css\\\\          # Stylesheet for web page
-- └── README.md\\\\              # Project documentation (this file)
+- ├── app.py&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 # Flask application
+- ├── jupyterNotebook.py&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     # Machine learning model logic
+- ├── diab_pred.pkl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          # Saved trained model for predictions
+- ├── requirements.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       # Python dependencies
+- ├── templates/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             # HTML files for the web interface
+- │   └── index.html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         # Main page for user input
+- ├── static/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                # CSS and other static assets
+- │   └── style.css&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          # Stylesheet for web page
+- └── README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              # Project documentation (this file)
 
 
 
