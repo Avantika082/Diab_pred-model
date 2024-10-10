@@ -1,6 +1,9 @@
 This project is a machine learning model that predicts the likelihood of an individual having diabetes based on specific health metrics such as glucose level, blood pressure, BMI, and others. The project is built using Python, trained on the Pima Indians Diabetes dataset, and deployed using Flask as a web application.
 
+
 Table of Contents
+
+
 Project Overview
 Technologies Used
 Features
@@ -11,6 +14,8 @@ Contributing
 
 
 Project Overview
+
+
 The Diabetes Prediction Model is a classification model that predicts whether a person has diabetes based on several input parameters such as:
 
 Pregnancies
