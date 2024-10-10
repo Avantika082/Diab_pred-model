@@ -12,6 +12,8 @@ This project is a machine learning model that predicts the likelihood of an indi
 - Contributing
 
 
+
+
 ### **Project Overview**
 
 
@@ -30,6 +32,8 @@ The Diabetes Prediction Model is a classification model that predicts whether a 
 The web application takes input from the user and provides the prediction through a trained machine learning model.
 
 
+
+
 ### **Technologies Used**
 
 
@@ -40,12 +44,16 @@ The web application takes input from the user and provides the prediction throug
 - HTML/CSS: For front-end user interface design.
 
 
+
+
 ### **Features**
 
 
 User-friendly Web Interface: Input health data and get predictions through a simple web interface.
 Machine Learning Model: Hypertuned svm trained on the Diabetes dataset.
 Prediction: Provides a binary prediction (positive or negative for diabetes).
+
+
 
 
 ### **Setup Instructions**
@@ -62,6 +70,8 @@ Virtual environment (recommended).
 Required Python libraries listed in requirements.txt.
 
 
+
+
 ### **Usage**
 
 
@@ -71,9 +81,14 @@ Enter the required health metrics such as glucose levels, BMI, etc. on the provi
 Submit the form to receive a prediction on whether the individual is likely to have diabetes or not.
 
 
+
+
 ### **Model Explanation:**
 
 The model is based on a svm and was trained on the Pima Indians Diabetes Dataset. The model uses various health-related features to predict the likelihood of diabetes. The dataset consists of 768 samples and 8 features, including pregnancies ,skin thickness , BMI ,  glucose level, insulin levels, and age.
+
+
+
 
 ### Training the Model:
 
@@ -83,19 +98,22 @@ A List model is trained including support vector machine(svm) , logistic regress
 
 
 
+
 ### **Project Structure**
 
 diabetes-prediction-model/
 
-├── app.py                 # Flask application
-├── jupyterNotebook.py     # Machine learning model logic
-├── diab_pred.pkl          # Saved trained model for predictions
-├── requirements.txt       # Python dependencies
-├── templates/             # HTML files for the web interface
-│   └── index.html         # Main page for user input
-├── static/                # CSS and other static assets
-│   └── style.css          # Stylesheet for web page
-└── README.md              # Project documentation (this file)
+- ├── app.py\\\\                 # Flask application
+- ├── jupyterNotebook.py\\\\     # Machine learning model logic
+- ├── diab_pred.pkl\\\\          # Saved trained model for predictions
+- ├── requirements.txt\\\\       # Python dependencies
+- ├── templates/\\\\             # HTML files for the web interface
+- │   └── index.html\\\\         # Main page for user input
+- ├── static/\\\\                # CSS and other static assets
+- │   └── style.css\\\\          # Stylesheet for web page
+- └── README.md\\\\              # Project documentation (this file)
+
+
 
 
 ### **Contributing**
