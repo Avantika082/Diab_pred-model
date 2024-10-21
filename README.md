@@ -29,7 +29,7 @@ The Diabetes Prediction Model is a classification model that predicts whether a 
 - Age
 
 
-The web application takes input from the user and provides the prediction through a trained machine learning model.
+The web application takes input from the user and provides the prediction through a trained hypertuned svm machine learning model.
 
 
 
