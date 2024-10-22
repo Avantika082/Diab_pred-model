@@ -42,6 +42,7 @@ The web application takes input from the user and provides the prediction throug
 - Pandas & Numpy: For data manipulation and processing.
 - scikit-learn: For building the machine learning model.
 - HTML/CSS: For front-end user interface design.
+- Matplotlib & Seaborn : For data visualization.
 
 
 
